@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi 👋 My name is Blessing Ojediran
+==================================
 
-<!--
-**BlessingOjediran/BlessingOjediran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer
+-----------------
 
-Here are some ideas to get you started:
+I work full-time as a Product/Web Designer at Terminal Africa. At the same time, I am studying software engineering at ALX. I love to explore and learn about new things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   🌍  I'm based in Lagos, Nigeria
+*   🖥️  See my portfolio at [blessingojediran.framer.website](http://blessingojediran.framer.website)
+*   ✉️  You can contact me at [versatileblessing@gmail.com](mailto:versatileblessing@gmail.com)
+*   🤝  I'm open to collaborating on interesting projects at a beginner level
+*   ⚡  I love beans and fried plantains.  
+
