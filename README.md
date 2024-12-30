@@ -1,7 +1,7 @@
 Hi 👋 My name is Blessing Ojediran
 ==================================
 
-Product Manager, Web Designer, Low-code Developer
+Product Designer/Manager, Web Designer, Low-code Developer
 -----------------
 
 I love to explore and learn about new things.
